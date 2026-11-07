@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-manuscript-tahqiq-diff"
+version = "1.0.0"
+description = "Islamic Manuscript Collation (Muqabalah) & Critical Apparatus Generator (موازن نسخ المخطوطات الإسلامية وإثبات الفروق التحقيقية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
